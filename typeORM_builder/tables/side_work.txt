@@ -1,0 +1,37 @@
+@OneToOne(type => AllPurposeRunning)
+allPurposeRunning:AllPurposeRunning;
+@OneToOne(type => FumbleReturns)
+fumbleReturns:FumbleReturns;
+@OneToOne(type => Interceptions)
+interceptions:Interceptions;
+@OneToOne(type => KickoffReturn)
+kickoffReturn:KickoffReturn;
+@OneToOne(type => Kickoffs)
+kickoffs:Kickoffs;
+@OneToOne(type => MiscDefense)
+miscDefense:MiscDefense;
+@OneToOne(type => Passing)
+passing:Passing;
+@OneToOne(type => PlaceKicking)
+placeKicking:PlaceKicking;
+@OneToOne(type => PuntReturn)
+puntReturn:PuntReturn;
+@OneToOne(type => Punting)
+punting:Punting;
+@OneToOne(type => Receiving)
+receiving:Receiving;
+@OneToOne(type => Rushing)
+rushing:Rushing;
+@OneToOne(type => Sacks)
+sacks:Sacks;
+@OneToOne(type => Scoring)
+scoring:Scoring;
+@OneToOne(type => Tackles)
+tackles:Tackles;
+@OneToOne(type => TacklesForLoss)
+tacklesForLoss:TacklesForLoss;
+@OneToOne(type => TotalOffense)
+totalOffense:TotalOffense;
+@OneToOne(type => YardsFromScrimmage)
+yardsFromScrimmage:YardsFromScrimmage;
+

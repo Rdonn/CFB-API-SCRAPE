@@ -1,0 +1,178 @@
+{
+    "All-Purpose Running": {
+        "G": null,
+        "Int. Ret.": null,
+        "Kick Ret.": null,
+        "Plays": null,
+        "Punt Ret.": null,
+        "Recv.": null,
+        "Rush": null,
+        "Split": null,
+        "Total Yards": null,
+        "Yards/G": null,
+        "Yards/Play": null
+    },
+    "Fumble Returns": {
+        "Fum. Ret.": null,
+        "G": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null
+    },
+    "Interceptions": {
+        "G": null,
+        "Int.": null,
+        "Int./G": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null
+    },
+    "Kickoff Return": {
+        "Avg.": null,
+        "G": null,
+        "Ret.": null,
+        "Ret./G": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null,
+        "Yards/G": null
+    },
+    "Kickoffs": {
+        "Avg.": null,
+        "G": null,
+        "Kickoffs": null,
+        "Onside": null,
+        "Out-Of-Bounds": null,
+        "Split": null,
+        "Touchback": null,
+        "Touchback %": null,
+        "Yards": null
+    },
+    "Misc. Defense": {
+        "Fumbles Forced": null,
+        "G": null,
+        "Kicks/Punts Blocked": null,
+        "Passes Broken Up": null,
+        "QB Hurries": null,
+        "Split": null
+    },
+    "Passing": {
+        "Att": null,
+        "Att/G": null,
+        "Comp": null,
+        "G": null,
+        "Int": null,
+        "Pct.": null,
+        "Rating": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null,
+        "Yards/Att": null,
+        "Yards/G": null
+    },
+    "Place Kicking": {
+        "": null,
+        "Att.": null,
+        "Att/G": null,
+        "Extra Point": null,
+        "Field Goal": null,
+        "G": null,
+        "Made": null,
+        "Made/G": null,
+        "Pct.": null,
+        "Split": null
+    },
+    "Punt Return": {
+        "Avg.": null,
+        "G": null,
+        "Ret.": null,
+        "Ret./G": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null,
+        "Yards/G": null
+    },
+    "Punting": {
+        "Avg.": null,
+        "G": null,
+        "Punts": null,
+        "Punts/G": null,
+        "Split": null,
+        "Yards": null,
+        "Yards/G": null
+    },
+    "Receiving": {
+        "Avg.": null,
+        "G": null,
+        "Rec.": null,
+        "Rec./G": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null,
+        "Yards/G": null
+    },
+    "Rushing": {
+        "Att": null,
+        "Att/G": null,
+        "Avg.": null,
+        "G": null,
+        "Split": null,
+        "TD": null,
+        "Yards": null,
+        "Yards/G": null
+    },
+    "Sacks": {
+        "G": null,
+        "Sack Yards": null,
+        "Sacks": null,
+        "Sacks/G": null,
+        "Split": null
+    },
+    "Scoring": {
+        "1XP": null,
+        "2XP": null,
+        "FG": null,
+        "G": null,
+        "Points": null,
+        "Points/G": null,
+        "Safety": null,
+        "Split": null,
+        "TD": null
+    },
+    "Tackles": {
+        "Assisted": null,
+        "G": null,
+        "Solo": null,
+        "Split": null,
+        "Total": null,
+        "Total/G": null
+    },
+    "Tackles For Loss": {
+        "G": null,
+        "Split": null,
+        "TFL": null,
+        "TFL Yards": null,
+        "TFL/G": null
+    },
+    "Total Offense": {
+        "G": null,
+        "Pass Yards": null,
+        "Plays": null,
+        "Rush Yards": null,
+        "Split": null,
+        "Total Yards": null,
+        "Yards/G": null,
+        "Yards/Play": null
+    },
+    "Yards From Scrimmage": {
+        "G": null,
+        "Plays": null,
+        "Recv Yards": null,
+        "Rush Yards": null,
+        "Split": null,
+        "TD": null,
+        "Total Yards": null,
+        "Yards/G": null,
+        "Yards/Play": null
+    }
+}
